@@ -10,7 +10,8 @@ function Loading(){
 }
 
 const styles=StyleSheet.create({
-    container:{
+// CSS 컨테이너
+        container:{
         flex: 1,
         justifyContent:"flex-end",
         padding: 20,
