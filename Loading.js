@@ -19,7 +19,6 @@ const styles=StyleSheet.create({
         paddingVertical:100,
     },
     text:{
-        color:"#2c2c2c",
         fontSize: 30
     }
 
