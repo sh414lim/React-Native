@@ -14,7 +14,6 @@ const styles=StyleSheet.create({
         container:{
         flex: 1,
         justifyContent:"flex-end",
-        padding: 20,
         paddingHorizontal:30,
         paddingVertical:100,
     },
